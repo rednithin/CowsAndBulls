@@ -2,6 +2,6 @@
 Cows and Bulls written in Rust.
 
 # Running the program
-'''bash
+```bash
 cargo run
-'''
+```
