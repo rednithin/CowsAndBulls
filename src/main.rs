@@ -29,7 +29,7 @@ fn main() {
         let actual_word = words[rng.gen_range(0, words.len())];
 
         println!("------------COWS AND BULLS---------------");
-        println!("{}", actual_word);
+        // println!("{}", actual_word);
         loop {
             let mut guessed_word = String::new();
 
